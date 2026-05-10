@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Danbaba1/webcrawlerhttp#readme",
   "devDependencies": {
     "jest": "^30.4.2"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.3"
   }
 }
